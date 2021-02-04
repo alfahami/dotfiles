@@ -1,2 +1,2 @@
 # dotfiles
-.bashrc .gnupg .vscode ...
+Debian 10 Buster dotfiles
